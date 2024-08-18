@@ -3,7 +3,7 @@
 
 # About the project
 
-This is a back-end application designed to practice API RestFul concepts with Spring Boot and JPA/Hibernate. To this end, I chose to develop a simple product API following Richardson's Maturity Model, consisting of four levels to achieve a RESTFul API.
+This is a back-end application designed to practice API RESTful concepts with Spring Boot and JPA/Hibernate. To this end, I chose to develop a simple product API following Richardson's Maturity Model, consisting of four levels to achieve a RESTFul API.
 
 ## API RestFul Model following Richardson's Maturity Model
 
