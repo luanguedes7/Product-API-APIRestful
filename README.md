@@ -41,7 +41,7 @@ Requirements: Java 17
 git clone https://github.com/luanguedes7/Product-API-APIRestful.git
 
 # Enter the back-end project folder
-cd backend
+cd Product-API-APIRestful
 
 # Run the project
 ./mvnw spring-boot:run
