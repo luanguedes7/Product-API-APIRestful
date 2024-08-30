@@ -1,4 +1,4 @@
-# Implementation of a Simple Product API
+# Implementation of a Product API
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/luanguedes7/Product-API-APIRestful/blob/main/LICENSE) 
 
 # About the project
